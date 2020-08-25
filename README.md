@@ -9,9 +9,7 @@ Full-Stack Java developer, currently working mostly with Java, Hibernate, JSF, P
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Bernardo&layout=compact)](https://github.com/Bruno-Bernardo/github-readme-stats)
 
-### Programming Languages 🌐
-
-- Know/Using 🧠
+### Know/Using 🧠
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -33,7 +31,7 @@ Full-Stack Java developer, currently working mostly with Java, Hibernate, JSF, P
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-- Learning 📚
+### Learning 📚
 
 ![Python](http://img.shields.io/badge/-Python-265277?style=flat-square&logo=Python&logoColor=ffffff)
 ![TypeScript](http://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
